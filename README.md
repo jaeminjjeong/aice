@@ -1,12 +1,12 @@
-# 한경 AICE 대비
+# 👨‍🏫한경 AICE 대비
 
-# I. AICE READY FUTURE
+# 🏷 I. AICE READY FUTURE
 ## Chapter 1. [이론] 처음 만나는 인공지능, AI 이해하기
 ## Chapter 2. [실습] AI 코디니 (또는 바이브코딩) 기능 익히기 
 ## Chapter 3. [실습] AI 코디니 (또는 바이브코딩) 와 함께 쉽고 재미있는 AI 해보기
 ## Chapter 4. [실습] AI FUTURE 3급 모의평가 해보기
 
-# II. AICE READY JUNIOR
+# 🏷 II. AICE READY JUNIOR
 
 ## Chapter 5. [이론] WHY AI?
 ## Chapter 6. [이론] AICE JUNIOR AI의 이해
@@ -15,7 +15,7 @@
 
 
 
-# III. AICE BASIC
+# 🏷 III. AICE BASIC
 ## Chapter 1. [이론] 입문 AI 의 이해
 ## Chapter 2. [실습] 노코딩 / 바이브코딩
 GOOGLE AI STUDIO / LOVABLE / AIDU EZ
@@ -29,7 +29,7 @@ GPT AI로 소프트웨어 만들어서 가족/친구/고객에게 공유해보�
 ## Chapter 8. [이론] 머신러닝 동작원리 BASIC
 ## Chapter 9. [실습] 딥러닝 동작원리 BASIC
 
-# IV. AICE ASSOCIATE 
+# 🏷 IV. AICE ASSOCIATE 
 ## Chapter 1. [이론 ]AI 의 이해
 ## Chapter 2. [실습] 네비게이션 도착시장 예측 모델링
 ## Chapter 3. [이론] 코딩을 활용한 AI 적용

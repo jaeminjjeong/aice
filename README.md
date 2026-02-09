@@ -1,5 +1,8 @@
 # 👨‍🏫한경 AICE 대비
 
+## 👨‍🏫 수업 목표
+[TO BE UPDATED]
+
 # 🏷 I. AICE READY FUTURE
 ## Chapter 1. [이론] 처음 만나는 인공지능, AI 이해하기
 ## Chapter 2. [실습] AI 코디니 (또는 바이브코딩) 기능 익히기 
